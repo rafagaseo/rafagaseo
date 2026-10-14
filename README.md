@@ -1,22 +1,29 @@
- ### Hello, 👋 I’m Ráfaga 
-- I am Tech Leader and Co-Founder at [Híbrido](http://hibrido.com.br). 
---- 
+# Hey there, I'm Ráfaga 👋
 
-### Tech & Tools Preference
+### **Co-Founder at [Centrato AI](https://centrato.ai) • Serial Entrepreneur • AI & Tech Leader**
 
-<div style="display:flex">
-  <img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00c8ff">
-  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-  <img src="http://img.shields.io/badge/-MAGENTO 2-EE672F?style=flat-square&logo=magento&logoColor=white">
-   <img src="http://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=hyper&logoColor=white">
-</div>
+[<img src="https://img.shields.io/badge/🚀_Visit-centrato.ai-6C5CE7?style=for-the-badge&labelColor=1E1E2E" alt="Centrato AI" />](https://centrato.ai)
 
---- 
-### Currently on Github i am working with...
-![API](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagaseo&layout=compact)
+---
 
+### ⚡ Highlights
+
+* 🤖 **Co-Founder & Tech Lead @ [Centrato AI](https://centrato.ai)** — Building intelligent AI agents, automated workflows, and high-impact enterprise solutions.
+* 📈 **Ex-Co-Founder @ Híbrido** — Co-founded and scaled Híbrido through a successful acquisition by **Smollan** *(Global Retail leader • South Africa 🇿🇦)*.
+* 🏗️ **Core Expertise** — Scalable Web Architectures, AI Agents, Modern Frameworks & Full-Stack Systems.
+
+---
+
+### 🛠 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+
+---
+
+<sub>Let's build something incredible. Connect via **[centrato.ai](https://centrato.ai)**</sub>
